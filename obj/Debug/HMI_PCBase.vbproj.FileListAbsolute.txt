@@ -1,0 +1,64 @@
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\bin\Debug\HMI_PCBase.exe.config
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\bin\Debug\HMI_PCBase.exe
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\bin\Debug\HMI_PCBase.pdb
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\bin\Debug\HMI_PCBase.xml
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.vbproj.AssemblyReference.cache
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.vbproj.SuggestedBindingRedirects.cache
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.Resources.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.vbproj.GenerateResource.cache
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.vbproj.CoreCompileInputs.cache
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.exe
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.xml
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.pdb
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\bin\Debug\EasyModbus.dll
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\bin\Debug\EasyModbus.xml
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.vbproj.CopyComplete
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMainDash.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmSettings.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMCStatDisplay.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1Maintenance.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1QAStoppage.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1Ready.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1RUN.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1MainPage.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1STOP.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1PlsLogin.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1NoPlan.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1MachineStoppage.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1OperatorStoppage.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1StoppageType.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1QAVerification.resources
+C:\Users\TuF GaminG\Documents\000 projects\001VB.Net\HMI_PCBase\obj\Debug\HMI_PCBase.frmMC1TestAutoMode.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\bin\Debug\HMI_PCBase.exe.config
+E:\0000 VBProjects\HMI_PCBaseUpdated\bin\Debug\HMI_PCBase.exe
+E:\0000 VBProjects\HMI_PCBaseUpdated\bin\Debug\HMI_PCBase.pdb
+E:\0000 VBProjects\HMI_PCBaseUpdated\bin\Debug\HMI_PCBase.xml
+E:\0000 VBProjects\HMI_PCBaseUpdated\bin\Debug\EasyModbus.dll
+E:\0000 VBProjects\HMI_PCBaseUpdated\bin\Debug\FontAwesome.Sharp.dll
+E:\0000 VBProjects\HMI_PCBaseUpdated\bin\Debug\EasyModbus.xml
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.vbproj.AssemblyReference.cache
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.vbproj.SuggestedBindingRedirects.cache
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1MachineStoppage.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1Maintenance.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1OperatorStoppage.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1QAStoppage.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1QAVerification.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1StoppageType.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1TestAutoMode.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMCStatDisplay.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1Ready.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1RUN.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmSettings.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMainDash.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1MainPage.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1STOP.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1PlsLogin.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.frmMC1NoPlan.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.Resources.resources
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.vbproj.GenerateResource.cache
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.vbproj.CoreCompileInputs.cache
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.vbproj.CopyComplete
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.exe
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.xml
+E:\0000 VBProjects\HMI_PCBaseUpdated\obj\Debug\HMI_PCBase.pdb
